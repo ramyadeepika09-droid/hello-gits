@@ -1,3 +1,3 @@
 # hello-gits
 My first repository on GitHub
-learning GitHub installation and application with R-studio
+learning GitHub installation and application with RStudio
